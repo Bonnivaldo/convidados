@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.convidados.app-mergeDebugResources-45:/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "outputFile": "com.example.convidados.app-mergeDebugResources-48:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/cleidson.bononi/AndroidStudioProjects/Convidados/app/src/main/res/values-w1240dp/dimens.xml",

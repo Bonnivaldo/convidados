@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.convidados.app-mergeDebugResources-45:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.example.convidados.app-mergeDebugResources-48:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "/Users/cleidson.bononi/.gradle/caches/transforms-3/35247393b79a5fe3c4f500e2adf3d76f/transformed/appcompat-1.5.1/res/values-pt-rPT/values-pt-rPT.xml",

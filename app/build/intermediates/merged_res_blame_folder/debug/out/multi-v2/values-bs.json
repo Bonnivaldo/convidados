@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.convidados.app-mergeDebugResources-45:/values-bs/values-bs.xml",
+            "outputFile": "com.example.convidados.app-mergeDebugResources-48:/values-bs/values-bs.xml",
             "map": [
                 {
                     "source": "/Users/cleidson.bononi/.gradle/caches/transforms-3/f3889f18d4f26e70cef4e17d11226053/transformed/core-1.9.0/res/values-bs/values-bs.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.convidados.app-mergeDebugResources-45:/values/values.xml",
+            "outputFile": "com.example.convidados.app-mergeDebugResources-48:/values/values.xml",
             "map": [
                 {
                     "source": "/Users/cleidson.bononi/AndroidStudioProjects/Convidados/app/src/main/res/values/dimens.xml",
