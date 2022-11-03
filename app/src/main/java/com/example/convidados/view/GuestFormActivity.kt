@@ -28,6 +28,7 @@ class GuestFormActivity : AppCompatActivity(), View.OnClickListener {
 
         binding.buttonSave.setOnClickListener(this)
         binding.radioPresent.isChecked = true
+        guestId = intent.getIntExtra(DataBaseConstants.GUEST.ID, 0)
 
         observe()
         loadData()
